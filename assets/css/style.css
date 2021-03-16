@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+ font-family: 'Akaya Telivigala', cursive;
 }
 
 /*--------------------------------------------------------------
@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #45505b;
   margin: 15px 0 0 0;
   font-size: 26px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Akaya Telivigala', cursive;
 }
 
 #hero p span {
@@ -493,7 +493,7 @@ section {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Akaya Telivigala', cursive;
   color: #0563bb;
   margin-bottom: 10px;
 }
@@ -1125,7 +1125,7 @@ section {
   font-size: 36px;
   font-weight: 700;
   position: relative;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Akaya Telivigala', cursive;
   padding: 0;
   margin: 0 0 15px 0;
 }
